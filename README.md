@@ -6,7 +6,8 @@
 [![Dependency status](https://deps.rs/repo/github/btrkeks/fitbit-rs/status.svg)](https://deps.rs/repo/github/btrkeks/fitbit-rs)
 [![MIT/Apache-2.0 licensed](https://img.shields.io/crates/l/fitbit-rs.svg)](./LICENSE)
 
-A Rust client library for the Fitbit API that allows fetching sleep data and activity summaries.
+A work in progress Rust client library for the Fitbit API.
+Currently implemented are fetching sleep data and activity summaries.
 
 ## Features
 
@@ -14,7 +15,6 @@ A Rust client library for the Fitbit API that allows fetching sleep data and act
 - Fetch sleep data with detailed sleep stages and levels
 - Fetch activity summaries including steps, calories, heart rate zones, etc.
 - Response caching to minimize API calls
-- Fully documented API with examples
 
 ## Installation
 
