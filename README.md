@@ -2,6 +2,8 @@
 
 [![Crates.io](https://img.shields.io/crates/v/fitbit-rs.svg)](https://crates.io/crates/fitbit-rs)
 [![Documentation](https://docs.rs/fitbit-rs/badge.svg)](https://docs.rs/fitbit-rs)
+[![Codecov](https://codecov.io/github/btrkeks/fitbit-rs/coverage.svg?branch=main)](https://codecov.io/gh/btrkeks/fitbit-rs)
+[![Dependency status](https://deps.rs/repo/github/btrkeks/fitbit-rs/status.svg)](https://deps.rs/repo/github/btrkeks/fitbit-rs)
 [![MIT/Apache-2.0 licensed](https://img.shields.io/crates/l/fitbit-rs.svg)](./LICENSE)
 
 A Rust client library for the Fitbit API that allows fetching sleep data and activity summaries.
